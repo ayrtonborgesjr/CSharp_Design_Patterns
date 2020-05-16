@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_01_Class_Adapter.EnemyRobot">
+    <Position X="0.75" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAKAACAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EnemyRobot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_01_Class_Adapter.EnemyRobotAdapter">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAABAABAAAAAAABAAAAAAA=</HashCode>
+      <FileName>EnemyRobotAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_01_Class_Adapter.EnemyTank">
+    <Position X="3.25" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABIAAAAAAAAABAAAAAAABAAAAAAA=</HashCode>
+      <FileName>EnemyTank.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="_01_Class_Adapter.IEnemyAttack">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAABAAAAAAABAAAAAAA=</HashCode>
+      <FileName>IEnemyAttack.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
