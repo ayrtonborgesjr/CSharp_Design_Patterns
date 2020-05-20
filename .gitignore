@@ -338,14 +338,3 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
-/Flyweight/FlyweightClassDiagram.cd
-/Flyweight/Flyweight.JPG
-/Interpreter
-/Iterator
-/Mediator
-/Memento
-/Observer
-/State
-/Strategy
-/Template Method
-/Visitor
