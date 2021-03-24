@@ -1,13 +1,13 @@
 # CSharp_Design_Patterns
 
--Pattners com propósito de Criação
+-Pattners com propósito de Criação:
 Visualizar,
 Factory Method,
 Abstract Factory,
 Builder,
 Prototype
 
--Pattners com propósito de Estrutura
+-Pattners com propósito de Estrutura:
 Adapter,
 Bridge,
 Composite,
@@ -16,7 +16,7 @@ Facade,
 Flyweight,
 Proxy,
 
--Pattners com propósito de Comportamento
+-Pattners com propósito de Comportamento:
 Chain of Responsibility,
 Command,
 Interpreter,
@@ -29,5 +29,5 @@ Strategy,
 Template Method,
 Visitor
 
--Arquitetura de Projeto
+-Arquitetura de Projeto:
 Injeção de dependência
